@@ -12,7 +12,7 @@ In this project, I recreated a simplified version of an Instagram profile page f
 #### Areas of Mastery
 
 - **CSS Layout Techniques**: I feel confident in creating a cohisive color scheme/theme. 
-- **Responsive Design**: I implemented media queries by replicating other codes.
+- **Responsive Design**: I implemented media queries by replicating other codes. Source: George W. Park (CodePen)
 - **Styling Elements**: I was able to style some images but I had to check through my notes.
 
 #### Challenges Faced
